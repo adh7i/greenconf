@@ -1,5 +1,5 @@
 ---
-base_url: "https://fossdot.github.io/greenconf"
+base_url: "https://fossdot.github.io/greenconf/index.html"
 static_dir: "static"
 per_page: 50
 
